@@ -26,3 +26,12 @@ a:visited{
     text-decoration: none;
     color: unset;
 }
+
+.dsmeta-logo-container p{
+  font-size: 14px;
+  font-weight: 300;
+}
+
+#sales{
+  margin: 40px 10px;
+}
