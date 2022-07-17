@@ -8,6 +8,7 @@ import SalesCard from './components/SalesCard';
 function App() {
   return (
     <>
+      
       <ToastContainer />
       <Header />
 
